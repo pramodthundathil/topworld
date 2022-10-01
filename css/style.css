@@ -100,7 +100,7 @@
 
 .hero-header {
     background-color: black;
-    background: url(/img/img_test.jpeg) top right no-repeat;
+    background: url(img/img_test.jpeg) top right no-repeat;
     background-size: cover;
 }
 
