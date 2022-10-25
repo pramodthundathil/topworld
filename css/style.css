@@ -252,6 +252,6 @@
 }
 @media screen and (max-width:740px) {
     .carousel-item img{
-        height: auto;
+        height: 250px;
     }
 }
